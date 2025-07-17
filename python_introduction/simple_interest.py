@@ -3,6 +3,7 @@ Simple Interest = "I"
 Principal = "P" 
 Rate = "R"
 Time = "T"
+Simple interest = Principal * Rate * Time
 #Assign values to the variables
 P = 1000 ($)
 R = 0.05 (%)

@@ -1,5 +1,5 @@
 #First define the variables.
-Simple Interest = "I"
+Interest = "I"
 Principal = "P" 
 Rate = "R"
 Time = "T"

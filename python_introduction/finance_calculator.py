@@ -1,5 +1,5 @@
 #First define the variables.
-monthly_income = input("Enter your monthly income.")
+monthly_income = input("Enter your monthly income")
 monthly_income = 5000
 print("monthly_income = 5000")
 monthly_expenses = input("Enter your monthly expenses")

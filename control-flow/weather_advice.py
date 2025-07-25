@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-current_weather = input("What's the weather today?" , (sunny/rainy/cold):)
+weather = input("What's the weather today?" , (sunny/rainy/cold):)
 if "sunny":
     print("Wear a t-shirt and sunglasses.")
     if "rainy":
